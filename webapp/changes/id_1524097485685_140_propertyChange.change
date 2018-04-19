@@ -1,0 +1,35 @@
+{
+	"fileName": "id_1524097485685_140_propertyChange",
+	"fileType": "change",
+	"changeType": "propertyChange",
+	"reference": "Z_SD_F1873_SO_WL.Component",
+	"packageName": "$TMP",
+	"content": {
+		"property": "busyIndicatorSize",
+		"newValue": "Auto"
+	},
+	"selector": {
+		"id": "Z_SD_F1873_SO_WL::sap.suite.ui.generic.template.ListReport.view.ListReport::C_SalesOrderWl_F1873--listReportFilter-btnBasicSearch",
+		"type": "sap.m.SearchField",
+		"idIsLocal": false
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/Z_SD_F1873_SO_WL/changes/",
+	"creation": "2018-04-19T00:25:47.678Z",
+	"originalLanguage": "EN",
+	"conditions": {},
+	"context": "",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.52.9"
+	},
+	"dependentSelector": {},
+	"validAppVersions": {
+		"creation": "1.0.0",
+		"from": "1.0.0",
+		"to": "1.0.0"
+	}
+}

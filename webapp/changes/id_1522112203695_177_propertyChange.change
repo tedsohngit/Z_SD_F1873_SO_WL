@@ -1,0 +1,35 @@
+{
+	"fileName": "id_1522112203695_177_propertyChange",
+	"fileType": "change",
+	"changeType": "propertyChange",
+	"reference": "Z_SD_F1873_SO_WL.Component",
+	"packageName": "$TMP",
+	"content": {
+		"property": "useExportToExcel",
+		"newValue": true
+	},
+	"selector": {
+		"id": "Z_SD_F1873_SO_WL::sap.suite.ui.generic.template.ListReport.view.ListReport::C_SalesOrderWl_F1873--listReport",
+		"type": "sap.ui.comp.smarttable.SmartTable",
+		"idIsLocal": false
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/Z_SD_F1873_SO_WL/changes/",
+	"creation": "2018-03-27T00:56:53.166Z",
+	"originalLanguage": "EN",
+	"conditions": {},
+	"context": "",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.52.7"
+	},
+	"dependentSelector": {},
+	"validAppVersions": {
+		"creation": "1.0.0",
+		"from": "1.0.0",
+		"to": "1.0.0"
+	}
+}
